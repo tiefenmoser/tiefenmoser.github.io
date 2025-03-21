@@ -89,6 +89,7 @@ pagination.pagerSize = 5
       missingBackButtonLabel = "Back to home page"
       minuteReadingTime = "min read"
       words = "words"
+      home ="/about" # remove when i add actual content to the side
 
       [languages.en.params.logo]
         logoText = "Cornelius Tiefenmoser"
@@ -99,10 +100,10 @@ pagination.pagerSize = 5
           identifier = "about"
           name = "About"
           url = "/about"
-        [[languages.en.menu.main]]
-          identifier = "showcase"
-          name = "Showcase"
-          url = "/showcase"
+        #[[languages.en.menu.main]]
+        #  identifier = "showcase"
+        #  name = "Showcase"
+        #  url = "/showcase"
 
 [caches]
   [caches.images]
