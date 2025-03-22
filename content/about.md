@@ -6,7 +6,7 @@ title = 'About'
 # Hey!
 My name is Cornelius and this is my personal Website where I document random projects.
 
-Im currently pursuing the BSc in Communications and Computer Engineering at Ulm University.
+Im currently pursuing a BSc in Communications and Computer Engineering at Ulm University.
 
 You can find me on:
 - [Github](https://github.com/tiefenmoser)
