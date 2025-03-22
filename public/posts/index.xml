@@ -4,9 +4,23 @@
     <title>Posts on Tiefenmoser</title>
     <link>//localhost:1313/posts/</link>
     <description>Recent content in Posts on Tiefenmoser</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Sat, 22 Mar 2025 09:32:19 +0100</lastBuildDate>
     <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>//localhost:1313/posts/test/</link>
+      <pubDate>Sat, 22 Mar 2025 09:32:19 +0100</pubDate>
+      <guid>//localhost:1313/posts/test/</guid>
+      <description>this should render lets see if it works</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>//localhost:1313/posts/my-first-post/</link>
+      <pubDate>Fri, 21 Mar 2025 14:09:29 +0100</pubDate>
+      <guid>//localhost:1313/posts/my-first-post/</guid>
+      <description>Introduction This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!</description>
+    </item>
   </channel>
 </rss>

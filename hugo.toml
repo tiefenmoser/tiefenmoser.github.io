@@ -89,7 +89,6 @@ pagination.pagerSize = 5
       missingBackButtonLabel = "Back to home page"
       minuteReadingTime = "min read"
       words = "words"
-      home ="/about" # remove when i add actual content to the side
 
       [languages.en.params.logo]
         logoText = "Cornelius Tiefenmoser"

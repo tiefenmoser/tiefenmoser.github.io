@@ -4,7 +4,7 @@
     <title>Tiefenmoser</title>
     <link>//localhost:1313/</link>
     <description>Recent content on Tiefenmoser</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 21 Mar 2025 15:13:05 +0100</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
@@ -13,14 +13,21 @@
       <link>//localhost:1313/showcase/</link>
       <pubDate>Fri, 21 Mar 2025 15:13:05 +0100</pubDate>
       <guid>//localhost:1313/showcase/</guid>
-      <description>&lt;p&gt;Got nothing to Showcase at this Time.&lt;/p&gt;</description>
+      <description>Got nothing to Showcase at this Time.</description>
     </item>
     <item>
       <title>About</title>
       <link>//localhost:1313/about/</link>
       <pubDate>Fri, 21 Mar 2025 14:13:34 +0100</pubDate>
       <guid>//localhost:1313/about/</guid>
-      <description>&lt;h1 id=&#34;hey&#34;&gt;Hey!&lt;/h1&gt;&#xA;&lt;p&gt;My name is Cornelius and this is my personal Website where I document random projects.&lt;/p&gt;&#xA;&lt;p&gt;Im currently pursuing the BSc in Communications and Computer Engineering at Ulm University.&lt;/p&gt;&#xA;&lt;p&gt;You can find me on:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/tiefenmoser&#34;&gt;Github&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/cornelius-tiefenmoser-0b509b303/&#34;&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Or contact me Through Mail:&#xA;&lt;a href=&#34;c.tiefenmoser@gmail.com&#34;&gt;c.tiefenmoser@gmail.com&lt;/a&gt;&lt;/p&gt;</description>
+      <description>Hey! My name is Cornelius and this is my personal Website where I document random projects.&#xA;Im currently pursuing the BSc in Communications and Computer Engineering at Ulm University.&#xA;You can find me on:&#xA;Github LinkedIn Or contact me Through Mail: c.tiefenmoser@gmail.com</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>//localhost:1313/posts/my-first-post/</link>
+      <pubDate>Fri, 21 Mar 2025 14:09:29 +0100</pubDate>
+      <guid>//localhost:1313/posts/my-first-post/</guid>
+      <description>Introduction This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!</description>
     </item>
   </channel>
 </rss>
