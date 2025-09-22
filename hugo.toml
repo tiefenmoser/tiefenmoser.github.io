@@ -76,7 +76,7 @@ pagination.pagerSize = 5
     title = "Tiefenmoser"
 
     [languages.en.params]
-      subtitle = "A simple, retro theme for Hugo"
+      subtitle = "Personal Website of Cornelius Tiefenmoser"
       owner = ""
       keywords = ""
       copyright = ""
